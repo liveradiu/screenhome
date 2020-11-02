@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "راديو لايف",
+    "short_name": "راديو لايف",
     "icons": [
         {
             "src": "https://liveradiu.github.io/screenhome/android-chrome-96x96.png",
@@ -9,6 +9,6 @@
         }
     ],
     "theme_color": "#3577e5",
-    "background_color": "#ffffff",
+    "background_color": "#3577e5",
     "display": "standalone"
 }
